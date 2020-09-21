@@ -1,7 +1,6 @@
 ---
 title: Political Discussions in Homogeneous and Cross-Cutting Communication Spaces
 date: '2019-07-01'
-draft: true
 authors:
 - Jisun An
 - Haewoon Kwak

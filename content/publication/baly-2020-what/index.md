@@ -2,7 +2,6 @@
 title: 'What Was Written vs. Who Read It: News Media Profiling Using Text Analysis
   and Social Media Context'
 date: '2020-07-01'
-draft: true
 authors:
 - Ramy Baly
 - Georgi Karadzhov
