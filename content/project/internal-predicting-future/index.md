@@ -3,13 +3,13 @@ title: Dynamic creation of nationwide virtual panels for collective behavior pre
 summary: An example of using the in-built project page.
 tags:
 - Public Opinion 
-date: "2020-10-01"
+date: "2020-09-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Conceptual UI-design of profile-based behavior predictor
   focal_point: Smart
 
 url_code: ""
