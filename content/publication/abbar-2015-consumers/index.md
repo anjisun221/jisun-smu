@@ -9,7 +9,7 @@ authors:
 - A. Jisun
 - H. Kwak
 - M. Yacine
-- B. -H. Javier
+- B. H. Javier
 publication_types:
 - 1
 abstract: In the last decades researchers have devoted a fair amount of effort to
