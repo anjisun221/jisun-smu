@@ -1,0 +1,36 @@
+---
+title: High correlation of Middle East respiratory syndrome spread with Google search
+  and Twitter trends in Korea
+date: '2016-01-01'
+draft: false
+publishDate: '2020-09-21T07:21:32.934086Z'
+authors:
+- Soo-Yong Shin
+- Dong-Woo Seo
+- Jisun An
+- Haewoon Kwak
+- Sung-Han Kim
+- Jin Gwack
+- Min-Woo Jo
+publication_types:
+- 2
+abstract: "The Middle East respiratory syndrome coronavirus (MERS-CoV) was exported\
+  \ to Korea in 2015, resulting in a threat to neighboring nations. We evaluated the\
+  \ possibility of using a digital surveillance system based on web searches and social\
+  \ media data to monitor this MERS outbreak. We collected the number of daily laboratory-confirmed\
+  \ MERS cases and quarantined cases from May 11, 2015 to June 26, 2015 using the\
+  \ Korean government MERS portal. The daily trends observed via Google search and\
+  \ Twitter during the same time period were also ascertained using Google Trends\
+  \ and Topsy. Correlations among the data were then examined using Spearman correlation\
+  \ analysis. We found high correlations (>0.7) between Google search and Twitter\
+  \ results and the number of confirmed MERS cases for the previous three days using\
+  \ only four simple keywords: 'MERS', '' ('MERS (in Korean)'), '' ('MERS symptoms\
+  \ (in Korean)'), and '' ('MERS hospital (in Korean)'). Additionally, we found high\
+  \ correlations between the Google search and Twitter results and the number of quarantined\
+  \ cases using the above keywords. This study demonstrates the possibility of using\
+  \ a digital surveillance system to monitor the outbreak of MERS."
+featured: false
+publication: '*Scientific reports*'
+url_pdf: https://www.nature.com/articles/srep32920#citeas
+---
+

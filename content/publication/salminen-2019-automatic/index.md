@@ -1,0 +1,46 @@
+---
+title: 'Automatic Persona Generation for Online Content Creators: Conceptual Rationale
+  and a Research Agenda'
+date: '2019-01-01'
+draft: false
+publishDate: '2020-09-21T07:21:23.661335Z'
+authors:
+- Joni Salminen
+- Bernard J. Jansen
+- Jisun An
+- Haewoon Kwak
+- Soon-Gyo Jung
+publication_types:
+- 6
+abstract: As the quantity of social and online analytics data has drastically increased,
+  a wide variety of methods are deployed to make sense of this data, typically via
+  computational and algorithmic approaches. However, in many cases, these approaches
+  trade one form of complexity for another by ignoring the principles of human cognitive
+  processing. In this perspective manuscript, we propose an approach of employing
+  Personas as an alternative form of making large volumes of online user analytics
+  information useful to end users of the user and customer analytics, with results
+  applicable in software development, business sectors, communication industry, and
+  other domains where understanding online user behavior is deemed important. Toward
+  this end, we have developed a system that automatically generates data-driven Personas
+  from social media and online analytics data, capable of handling hundreds of millions
+  of user interactions from tens of thousands of pieces of content on YouTube, Facebook
+  and Google Analytics, while retaining the privacy of individual users of those channels.
+  Our approach (1) identifies and prioritizes user segments by their online behavior,
+  (2) associates the segments with demographic data, and (3) creates rich Persona
+  profiles by dynamically adding characteristics, such as names, photos, and descriptive
+  quotes. This chapter characterizes the currently open research problems in automatic
+  Persona generation, such as de-aggregation of data, cross-platform data mapping,
+  filtering of toxic comments, and choosing the right information content according
+  to end-user needs. Addressing these problems requires the use of state-of-the-art
+  techniques of computer and information science within one system and benefits greatly
+  from inter-disciplinary collaboration. Overall, the research agenda set in this
+  work aims at achieving the vision for automatic user profiling using diverse online
+  and social media platforms and advanced data processing methods for the end goal
+  of making complex analytics data more useful for human decision makers, especially
+  those working with online content.
+featured: false
+publication: '*Personas - User Focused Design*'
+url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_personas_user_focused_design.pdf
+doi: 10.1007/978-1-4471-7427-1_8
+---
+
