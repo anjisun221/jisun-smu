@@ -2,8 +2,8 @@
 title: 'Consumers and suppliers: attention asymmetries. A case study of Al Jazeera’s
   news coverage and comments'
 date: '2015-01-01'
-draft: 'false'
-publishDate: '2020-09-21T07:20:15.284309Z'
+draft: false
+publishDate: '2020-09-21T07:21:35.338812Z'
 authors:
 - S. Abbar
 - A. Jisun
