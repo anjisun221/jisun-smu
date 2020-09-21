@@ -36,7 +36,7 @@ education:
     - course: BS in Computer Science
       institution: KAIST
       year: 2007
-email: ""
+email: "jisunan@smu.edu.sg"
 user_groups:
   - Researchers
   - Visitors
