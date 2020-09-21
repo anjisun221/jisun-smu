@@ -15,6 +15,10 @@ interests:
   - Social Media Analysis
   - Natural Language Processing
   - Artificial Intelligence
+news:
+  - I will join SMU-SIS as an assistant professor from Oct 1, 2020!
+  - Our paper got accepted at ICWSM'21
+  - Our work was presented at WebSci'20
 social:
   - icon: envelope
     icon_pack: fas
