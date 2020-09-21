@@ -2,7 +2,7 @@
 title: Visualizing Media Bias through Twitter
 date: '2012-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:38.123269Z'
+publishDate: '2020-09-21T07:55:52.144162Z'
 authors:
 - Jisun An
 - Meeyoung Cha

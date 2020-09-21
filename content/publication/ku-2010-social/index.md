@@ -2,7 +2,7 @@
 title: A social transitivity-based data dissemination scheme for opportunistic networks
 date: '2010-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:38.676595Z'
+publishDate: '2020-09-21T07:55:52.744549Z'
 authors:
 - Jaesung Ku
 - Yangwoo Ko

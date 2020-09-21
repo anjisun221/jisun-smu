@@ -3,7 +3,7 @@ title: "Fixation and Confusion: Investigating Eye-Tracking Participants' Exposur
   \ to Information in Personas"
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:27.749662Z'
+publishDate: '2020-09-21T07:55:41.821266Z'
 authors:
 - Joni Salminen
 - Bernard J. Jansen

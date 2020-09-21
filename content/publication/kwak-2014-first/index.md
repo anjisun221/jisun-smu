@@ -2,7 +2,7 @@
 title: A first look at global news coverage of disasters by using the gdelt dataset
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:36.705006Z'
+publishDate: '2020-09-21T07:55:50.570894Z'
 authors:
 - Haewoon Kwak
 - Jisun An

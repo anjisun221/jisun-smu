@@ -3,7 +3,7 @@ title: Who Are Your Users? Comparing Media Professionals' Preconception of Users
   Data-Driven Personas
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:28.599782Z'
+publishDate: '2020-09-21T07:55:42.689996Z'
 authors:
 - Lene Nielsen
 - Soon-Gyo Jung

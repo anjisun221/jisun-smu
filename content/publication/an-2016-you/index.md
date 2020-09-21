@@ -2,7 +2,7 @@
 title: Are You Charlie or Ahmed? Cultural Pluralism in Charlie Hebdo Response on Twitter
 date: '2016-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:33.719323Z'
+publishDate: '2020-09-21T07:55:47.521951Z'
 authors:
 - Jisun An
 - Haewoon Kwak

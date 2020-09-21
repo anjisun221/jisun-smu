@@ -3,7 +3,7 @@ title: Multidimensional Analysis of the News Consumption of Different Demographi
   Groups on a Nationwide Scale
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:29.214545Z'
+publishDate: '2020-09-21T07:55:43.262204Z'
 authors:
 - Jisun An
 - Haewoon Kwak

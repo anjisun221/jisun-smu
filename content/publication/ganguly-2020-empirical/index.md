@@ -3,7 +3,7 @@ title: Empirical Evaluation of Three Common Assumptions in Building Political Me
   Bias Datasets
 date: '2020-05-01'
 draft: false
-publishDate: '2020-09-21T07:21:19.270376Z'
+publishDate: '2020-09-21T07:55:33.173414Z'
 authors:
 - Soumen Ganguly
 - Juhi Kulshrestha
@@ -21,7 +21,7 @@ abstract: In this work, we empirically validate three common assumptions in buil
   to the (in)validity of common assumptions in building political media bias datasets.
 featured: false
 publication: '*Proceedings of the International AAAI Conference on Web and Social
-  Media*'
+  Media (ICWSM)*'
 url_pdf: https://www.aaai.org/ojs/index.php/ICWSM/article/view/7362
 ---
 

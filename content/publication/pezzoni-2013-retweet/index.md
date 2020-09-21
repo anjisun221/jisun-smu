@@ -2,7 +2,7 @@
 title: Why Do I Retweet It? An Information Propagation Model for Microblogs
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:37.234828Z'
+publishDate: '2020-09-21T07:55:51.281876Z'
 authors:
 - Fabio Pezzoni
 - Jisun An

@@ -3,7 +3,7 @@ title: 'Imaginary People Representing Real Numbers: Generating Personas from Onl
   Social Media Data'
 date: '2018-11-01'
 draft: false
-publishDate: '2020-09-21T07:21:24.668368Z'
+publishDate: '2020-09-21T07:55:38.350416Z'
 authors:
 - J. An
 - H. Kwak

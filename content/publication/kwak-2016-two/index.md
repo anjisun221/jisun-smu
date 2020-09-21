@@ -3,7 +3,7 @@ title: 'Two Tales of the World: Comparison of Widely Used World News Datasets GD
   and EventRegistry'
 date: '2016-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:34.197650Z'
+publishDate: '2020-09-21T07:55:48.058953Z'
 authors:
 - Haewoon Kwak
 - Jisun An

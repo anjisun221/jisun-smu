@@ -3,7 +3,7 @@ title: A Systematic Media Frame Analysis of 1.5 Million New York Times Articles 
   2000 to 2017
 date: '2020-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:19.774261Z'
+publishDate: '2020-09-21T07:55:33.630749Z'
 authors:
 - Haewoon Kwak
 - Jisun An
@@ -27,7 +27,7 @@ abstract: Framing is an indispensable narrative device for news media because ev
   Our scalable, computational approach to massive news datasets opens up new pathways
   for systematic media framing studies.
 featured: false
-publication: '*12th ACM Conference on Web Science*'
+publication: '*12th ACM Conference on Web Science (WebSci)*'
 tags:
 - '"Media Frames Corpus"'
 - '"Computational Journalism"'

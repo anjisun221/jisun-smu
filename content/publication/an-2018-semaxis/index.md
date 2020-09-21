@@ -3,7 +3,7 @@ title: 'SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Se
   Beyond Sentiment'
 date: '2018-07-01'
 draft: false
-publishDate: '2020-09-21T07:21:25.921445Z'
+publishDate: '2020-09-21T07:55:39.674506Z'
 authors:
 - Jisun An
 - Haewoon Kwak

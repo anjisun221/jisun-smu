@@ -2,7 +2,7 @@
 title: 'Partisan Sharing: Facebook Evidence and Societal Consequences'
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:36.187123Z'
+publishDate: '2020-09-21T07:55:50.022474Z'
 authors:
 - Jisun An
 - Daniele Quercia

@@ -2,7 +2,7 @@
 title: 'Fragmented Social Media: A Look into Selective Exposure to Political News'
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:36.975434Z'
+publishDate: '2020-09-21T07:55:50.993080Z'
 authors:
 - Jisun An
 - Daniele Quercia

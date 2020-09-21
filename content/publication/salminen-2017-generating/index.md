@@ -3,7 +3,7 @@ title: 'Generating Cultural Personas from Social Data: A Perspective of Middle E
   Users'
 date: '2017-08-01'
 draft: false
-publishDate: '2020-09-21T07:21:29.987958Z'
+publishDate: '2020-09-21T07:55:43.727445Z'
 authors:
 - J. Salminen
 - S. Sengün
@@ -30,11 +30,11 @@ publication: '*2017 5th International Conference on Future Internet of Things an
   Cloud Workshops (FiCloudW)*'
 tags:
 - '"cultural aspects"'
+- '"cultural personas"'
 - '"social data"'
 - '"Middle Eastern social media users"'
 - '"automatic persona generation"'
 - '"social media analytics"'
-- '"cultural personas"'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_mena_personas2017.pdf
 doi: 10.1109/FiCloudW.2017.97
 ---

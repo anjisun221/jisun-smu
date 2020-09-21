@@ -3,7 +3,7 @@ title: High correlation of Middle East respiratory syndrome spread with Google s
   and Twitter trends in Korea
 date: '2016-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:32.934086Z'
+publishDate: '2020-09-21T07:55:46.165984Z'
 authors:
 - Soo-Yong Shin
 - Dong-Woo Seo

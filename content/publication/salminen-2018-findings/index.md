@@ -2,7 +2,7 @@
 title: Findings of a User Study of Automatically Generated Personas
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:26.701369Z'
+publishDate: '2020-09-21T07:55:40.582401Z'
 authors:
 - Joni Salminen
 - Soon-Gyo Jung

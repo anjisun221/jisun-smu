@@ -2,7 +2,7 @@
 title: 'Diversity in Online Advertising: A Case Study of 69 Brands on Social Media'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:24.919397Z'
+publishDate: '2020-09-21T07:55:38.587894Z'
 authors:
 - Jisun An
 - Ingmar Weber

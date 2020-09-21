@@ -2,7 +2,7 @@
 title: Social media mining for journalism
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:23.366749Z'
+publishDate: '2020-09-21T07:55:37.110055Z'
 authors:
 - Arkaitz Zubiaga
 - Bahareh Heravi

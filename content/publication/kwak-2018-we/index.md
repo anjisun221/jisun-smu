@@ -3,7 +3,7 @@ title: 'What We Read, What We Search: Media Attention and Public Attention Among
   Countries'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:27.212392Z'
+publishDate: '2020-09-21T07:55:41.193208Z'
 authors:
 - Haewoon Kwak
 - Jisun An

@@ -3,7 +3,7 @@ title: Gender and Racial Diversity in Commercial Brands' Advertising Images on S
   Media
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:21.266402Z'
+publishDate: '2020-09-21T07:55:35.120343Z'
 authors:
 - Jisun An
 - Haewoon Kwak

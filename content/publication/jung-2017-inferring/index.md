@@ -3,7 +3,7 @@ title: 'Inferring social media users’ demographics from profile pictures: A Fa
   analysis on Twitter users'
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:28.287215Z'
+publishDate: '2020-09-21T07:55:42.365327Z'
 authors:
 - Soon-Gyo Jung
 - Jisun An

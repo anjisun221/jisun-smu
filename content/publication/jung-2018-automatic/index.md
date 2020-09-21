@@ -2,7 +2,7 @@
 title: 'Automatic Persona Generation (APG): A Rationale and Demonstration'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:27.499112Z'
+publishDate: '2020-09-21T07:55:41.542330Z'
 authors:
 - Soon-gyo Jung
 - Joni Salminen

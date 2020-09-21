@@ -2,7 +2,7 @@
 title: Personas for Content Creators via Decomposed Aggregate Audience Statistics
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:30.777600Z'
+publishDate: '2020-09-21T07:55:44.196800Z'
 authors:
 - Jisun An
 - Haewoon Kwak

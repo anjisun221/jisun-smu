@@ -2,7 +2,7 @@
 title: Recommending Investors for Crowdfunding Projects
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:36.437392Z'
+publishDate: '2020-09-21T07:55:50.279147Z'
 authors:
 - Jisun An
 - Daniele Quercia

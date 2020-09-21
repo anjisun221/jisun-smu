@@ -2,7 +2,7 @@
 title: Why Individuals Seek Diverse Opinions (or Why They Don't)
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:37.863820Z'
+publishDate: '2020-09-21T07:55:51.865566Z'
 authors:
 - Jisun An
 - Daniele Quercia

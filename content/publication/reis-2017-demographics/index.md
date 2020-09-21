@@ -2,7 +2,7 @@
 title: Demographics of News Sharing in the U.S. Twittersphere
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:31.027164Z'
+publishDate: '2020-09-21T07:55:44.442024Z'
 authors:
 - Julio C.S. Reis
 - Haewoon Kwak

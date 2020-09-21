@@ -2,7 +2,7 @@
 title: Persona Generation from Aggregated Social Media Data
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:31.318088Z'
+publishDate: '2020-09-21T07:55:44.735070Z'
 authors:
 - Soon-Gyo Jung
 - Jisun An

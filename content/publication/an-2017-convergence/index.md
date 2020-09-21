@@ -2,7 +2,7 @@
 title: Convergence of Media Attention Across 129 Countries
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:29.614111Z'
+publishDate: '2020-09-21T07:55:43.486192Z'
 authors:
 - Jisun An
 - Hassan Aldarbesti

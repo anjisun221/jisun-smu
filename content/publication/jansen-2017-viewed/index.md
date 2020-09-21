@@ -3,7 +3,7 @@ title: 'Viewed by too many or viewed too little: Using information dissemination
   audience segmentation'
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:32.254094Z'
+publishDate: '2020-09-21T07:55:45.595302Z'
 authors:
 - Bernard J. Jansen
 - Soon-Gyo Jung

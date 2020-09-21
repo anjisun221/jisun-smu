@@ -3,7 +3,7 @@ title: 'Customer segmentation using online platforms: isolating behavioral and d
   segments for persona creation via aggregated user data'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:24.195274Z'
+publishDate: '2020-09-21T07:55:37.864200Z'
 authors:
 - Jisun An
 - Haewoon Kwak

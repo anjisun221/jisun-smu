@@ -2,7 +2,7 @@
 title: Interference-aware routing protocol in multi-radio wireless mesh networks
 date: '2009-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:38.942024Z'
+publishDate: '2020-09-21T07:55:52.990136Z'
 authors:
 - Byoungheon Shin
 - Yangwoo Ko

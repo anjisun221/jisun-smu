@@ -2,7 +2,7 @@
 title: 'Discursive Power in Contemporary Media Systems: A Comparative Framework'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:21.821941Z'
+publishDate: '2020-09-21T07:55:35.652600Z'
 authors:
 - Andreas Jungherr
 - Oliver Posegga

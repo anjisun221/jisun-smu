@@ -2,7 +2,7 @@
 title: A social relation aware routing protocol for mobile ad hoc networks
 date: '2009-01-01'
 draft: false
-publishDate: '2020-09-21T07:21:39.225320Z'
+publishDate: '2020-09-21T07:55:53.276031Z'
 authors:
 - Jisun An
 - Yangwoo Ko

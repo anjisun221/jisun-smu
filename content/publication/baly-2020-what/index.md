@@ -3,7 +3,7 @@ title: 'What Was Written vs. Who Read It: News Media Profiling Using Text Analys
   and Social Media Context'
 date: '2020-07-01'
 draft: false
-publishDate: '2020-09-21T07:21:19.510203Z'
+publishDate: '2020-09-21T07:55:33.412146Z'
 authors:
 - Ramy Baly
 - Georgi Karadzhov
@@ -33,7 +33,7 @@ abstract: Predicting the political bias and the factuality of reporting of entir
   yields huge improvements over the current state-of-the-art.
 featured: false
 publication: '*Proceedings of the 58th Annual Meeting of the Association for Computational
-  Linguistics*'
+  Linguistics (ACL)*'
 url_pdf: https://www.aclweb.org/anthology/2020.acl-main.308
 doi: 10.18653/v1/2020.acl-main.308
 ---
