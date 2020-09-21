@@ -3,7 +3,6 @@ title: 'What Was Written vs. Who Read It: News Media Profiling Using Text Analys
   and Social Media Context'
 date: '2020-07-01'
 draft: true
-publishDate: '2020-09-21T03:43:55.791390Z'
 authors:
 - Ramy Baly
 - Georgi Karadzhov
@@ -21,7 +20,7 @@ abstract: Predicting the political bias and the factuality of reporting of entir
   of fake, biased, and propagandistic content online has made it impossible to fact-check
   every single suspicious claim, either manually or automatically. Thus, it has been
   proposed to profile entire news outlets and to look for those that are likely to
-  publish fake or biased content. This makes it possible to detect likely ``fake news″
+  publish fake or biased content. This makes it possible to detect likely fake news
   the moment they are published, by simply checking the reliability of their source.
   From a practical perspective, political bias and factuality of reporting have a
   linguistic aspect but also a social context. Here, we study the impact of both,

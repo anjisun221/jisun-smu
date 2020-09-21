@@ -29,23 +29,33 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "^-^"
+  organization_url = ""
+  title = "I will join SMU-SIS as an assistant professor from Oct 1, 2020!"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2020-09-16"
+  date_end = ""
   description = ""
+
+[[item]]
+  organization = "paper"
+  organization_url = ""
+  title = "Our paper got accepted at ICWSM'21"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-16"
+  date_end = ""
+  description = "Stay tune for 'Understanding the Effects of Editing News Headlines by Media Accounts on Social Media Engagement through Computational Frameworks (Tentative)'"
+
+[[item]]
+  organization = "talk"
+  organization_url = ""
+  title = "Our work was presented at WebSci'20"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-10"
+  date_end = ""
+  description = "Our paper, titled 'A Systematic Media Frame Analysis of 1.5 Million New York Times Articles from 2000 to 2017' was presented at WebSci'20"
 
 +++
