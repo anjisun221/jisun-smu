@@ -1,75 +1,46 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Jisun An
+role: "Assistant Professor "
+avatar_filename: jisunan.jpeg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Stanford University
+    url: ""
+superuser: true
+authors:
+  - admin
+bio: My research interests include computational social science, social media
+  analysis, natural language processing and artificial intelligence.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Computational Social Science
+  - Social Media Analysis
+  - Natural Language Processing
+  - Artificial Intelligence
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:jisunan@smu.edu.sg
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/JisunAn
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.co.uk/citations?hl=en&pli=1&user=6hkR3hEAAAAJ  "
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Computer Science
+      institution: University of Cambridge
+      year: 2014
+    - course: MS in Computer Science
+      institution: KAIST
+      year: 2009
+    - course: BS in Computer Science
+      institution: KAIST
+      year: 2007
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+**Jisun An** is an assistant professor at the School of Information Systems, Singapore Management University (SMU-SIS). She is interested in doing data science in the area of journalism, politics, health, and computational social science. The research she does is highly interdisciplinary, which only can be achieved by combining theoretical foundations, computational methods such as NLP and machine learning, and massive computing capability. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining SMU-SIS, she worked at Qatar Computing Research Institute, HBKU as a scientist. She received her Ph.D. in Computer Science from the University of Cambridge, UK in 2015. For her study, she was funded by EPSRC and she is now an honorable recipient of Google European Scholarship. She has been a member of the PC of major computer science conferences and computational social science conferences, including ICWSM 2012-20, WWW 2016-20, SocInfo 2014-17/20, IC2S2 2016-20. She also has been organizing a workshop on News and Public Opinion (NECO) 2016-18, 20.
