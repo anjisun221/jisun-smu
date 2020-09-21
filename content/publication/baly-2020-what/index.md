@@ -12,8 +12,8 @@ authors:
 - Ahmed Ali
 - James Glass
 - Preslav Nakov
-publication_types:
-- 1
+publication_types: ["1"]
+
 abstract: Predicting the political bias and the factuality of reporting of entire
   news outlets are critical elements of media profiling, which is an understudied
   but an increasingly important research direction. The present level of proliferation
