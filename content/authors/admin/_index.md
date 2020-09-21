@@ -3,7 +3,7 @@ title: Jisun An
 role: "Assistant Professor "
 avatar_filename: avatar.jpg
 organizations:
-  - name: name: School of Information Systems, Singapore Management University (SMU-SIS) jisunan@smu.edu.sg
+  - name: School of Information Systems, Singapore Management University (SMU-SIS) jisunan@smu.edu.sg
     url: ""
 superuser: true
 authors:
@@ -24,7 +24,7 @@ social:
     link: https://twitter.com/JisunAn
   - icon: google-scholar
     icon_pack: ai
-    link: "https://scholar.google.co.uk/citations?hl=en&pli=1&user=6hkR3hEAAAAJ  "
+    link: "https://scholar.google.co.uk/citations?hl=en&pli=1&user=6hkR3hEAAAAJ"
 education:
   courses:
     - course: PhD in Computer Science
