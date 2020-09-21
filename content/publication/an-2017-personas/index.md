@@ -2,7 +2,7 @@
 title: Personas for Content Creators via Decomposed Aggregate Audience Statistics
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:44.196800Z'
+publishDate: '2020-09-21T08:12:14.732687Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -17,7 +17,7 @@ abstract: We propose a novel method for generating personas based on online user
   online user data, versus relying on manually gathered data.
 featured: false
 publication: '*Proceedings of the 2017 IEEE/ACM International Conference on Advances
-  in Social Networks Analysis and Mining 2017*'
+  in Social Networks Analysis and Mining (ASONAM)*'
 url_pdf: https://dl.acm.org/doi/10.1145/3110025.3110072?cid=99659160512
 doi: 10.1145/3110025.3110072
 ---

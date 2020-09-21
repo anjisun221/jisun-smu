@@ -2,7 +2,7 @@
 title: Why Do I Retweet It? An Information Propagation Model for Microblogs
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:51.281876Z'
+publishDate: '2020-09-21T08:12:21.379607Z'
 authors:
 - Fabio Pezzoni
 - Jisun An
@@ -24,7 +24,7 @@ abstract: Microblogging platforms are Web 2.0 services that represent a suitable
   user to user) whose statistical properties match empirical observations.
 featured: false
 publication: '*Proceedings of the 5th International Conference on Social Informatics
-  - Volume 8238*'
+  (SocInfo)*'
 url_pdf: http://cnd.iit.cnr.it/andrea/docs/socinfo13.pdf
 doi: 10.1007/978-3-319-03260-3_31
 ---

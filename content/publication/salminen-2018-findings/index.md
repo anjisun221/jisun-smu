@@ -2,7 +2,7 @@
 title: Findings of a User Study of Automatically Generated Personas
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:40.582401Z'
+publishDate: '2020-09-21T08:12:10.820264Z'
 authors:
 - Joni Salminen
 - Soon-Gyo Jung
@@ -25,7 +25,7 @@ abstract: We report findings and implications from a semi-naturalistic user stud
   and customers.
 featured: false
 publication: '*Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing
-  Systems*'
+  Systems (CHI)*'
 tags:
 - '"persona analytics"'
 - '"data-driven personas"'

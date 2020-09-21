@@ -3,7 +3,7 @@ title: 'Generating Cultural Personas from Social Data: A Perspective of Middle E
   Users'
 date: '2017-08-01'
 draft: false
-publishDate: '2020-09-21T07:55:43.727445Z'
+publishDate: '2020-09-21T08:12:14.210106Z'
 authors:
 - J. Salminen
 - S. Sengün

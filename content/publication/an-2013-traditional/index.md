@@ -2,7 +2,7 @@
 title: Traditional Media Seen from Social Media
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:51.583510Z'
+publishDate: '2020-09-21T08:12:21.659593Z'
 authors:
 - Jisun An
 - Daniele Quercia
@@ -22,7 +22,7 @@ abstract: "With the advent of social media services, media outlets have started 
   \ overlap? Are they competitors or potential collaborators? Are people who know\
   \ each other more likely to subscribe to similar outlets?"
 featured: false
-publication: '*Proceedings of the 5th Annual ACM Web Science Conference*'
+publication: '*Proceedings of the 5th Annual ACM Web Science Conference (WebSci)*'
 tags:
 - '"media study"'
 - '"visualization"'

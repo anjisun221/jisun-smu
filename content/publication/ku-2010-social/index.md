@@ -2,7 +2,7 @@
 title: A social transitivity-based data dissemination scheme for opportunistic networks
 date: '2010-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:52.744549Z'
+publishDate: '2020-09-21T08:12:22.869384Z'
 authors:
 - Jaesung Ku
 - Yangwoo Ko
@@ -24,7 +24,7 @@ abstract: A social-based routing protocol for opportunistic networks considers t
   ratio by 1.5 percent and decreases delay time by 2 percent while reducing overhead
   by 30 percent.
 featured: false
-publication: '*2010 IEEE International Symposium on\" A World of Wireless, Mobile
-  and Multimedia Networks\"(WoWMoM)*'
+publication: '*2010 IEEE International Symposium on A World of Wireless, Mobile and
+  Multimedia Networks (WoWMoM)*'
 ---
 

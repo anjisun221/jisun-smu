@@ -3,7 +3,7 @@ title: 'Inferring social media users’ demographics from profile pictures: A Fa
   analysis on Twitter users'
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:42.365327Z'
+publishDate: '2020-09-21T08:12:12.897207Z'
 authors:
 - Soon-Gyo Jung
 - Jisun An
@@ -31,7 +31,7 @@ abstract: In this research, we evaluate the applicability of using facial recogn
   for system development to be problematic, despite the reported high accuracy achieved
   for image test collections
 featured: false
-publication: ''
+publication: '*Proceedings of 17th International Conference on Electronic Business*'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_iceb_2017_pictures.pdf
 ---
 

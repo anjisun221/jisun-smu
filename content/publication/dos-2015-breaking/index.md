@@ -2,7 +2,7 @@
 title: 'Breaking the News: First Impressions Matter on Online News'
 date: '2015-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:48.919286Z'
+publishDate: '2020-09-21T08:12:19.282583Z'
 authors:
 - Julio Rieis
 - Fabrício de Souza

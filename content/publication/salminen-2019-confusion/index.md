@@ -2,7 +2,7 @@
 title: 'Confusion Prediction from Eye-Tracking Data: Experiments with Machine Learning'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:36.889374Z'
+publishDate: '2020-09-21T08:12:06.406570Z'
 authors:
 - Joni Salminen
 - Mridul Nagpal

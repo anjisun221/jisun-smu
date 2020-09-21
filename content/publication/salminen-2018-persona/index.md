@@ -3,7 +3,7 @@ title: 'Persona Perception Scale: Developing and Validating an Instrument for Hu
   Representations of Data'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:40.868308Z'
+publishDate: '2020-09-21T08:12:11.081371Z'
 authors:
 - Joni Salminen
 - Haewoon Kwak
@@ -25,7 +25,7 @@ abstract: Personas are widely used in software development, system design, and H
   us to pursue the use of the scale with a larger sample in future work.
 featured: false
 publication: '*Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing
-  Systems*'
+  Systems (CHI)*'
 tags:
 - '"persona perception"'
 - '"personas"'

@@ -2,7 +2,7 @@
 title: 'Tanbih: Get To Know What You Are Reading'
 date: '2019-11-01'
 draft: false
-publishDate: '2020-09-21T07:55:35.337848Z'
+publishDate: '2020-09-21T08:12:04.492558Z'
 authors:
 - Yifan Zhang
 - Giovanni Da San Martino

@@ -2,7 +2,7 @@
 title: 'Automatic Persona Generation (APG): A Rationale and Demonstration'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:41.542330Z'
+publishDate: '2020-09-21T08:12:11.635812Z'
 authors:
 - Soon-gyo Jung
 - Joni Salminen
@@ -26,7 +26,7 @@ abstract: We present Automatic Persona Generation (APG), a methodology and syste
   generation. APG can be found online at https://persona.qcri.org.
 featured: false
 publication: '*Proceedings of the 2018 Conference on Human Information Interaction
-  & Retrieval*'
+  & Retrieval (CHIIR)*'
 tags:
 - '"user analytics"'
 - '"personas"'

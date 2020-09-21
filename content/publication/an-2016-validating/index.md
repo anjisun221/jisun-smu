@@ -2,7 +2,7 @@
 title: Validating social media data for automatic persona generation
 date: '2016-11-01'
 draft: false
-publishDate: '2020-09-21T07:55:45.893221Z'
+publishDate: '2020-09-21T08:12:16.340798Z'
 authors:
 - J. An
 - H. Kwak

@@ -2,7 +2,7 @@
 title: 'Fragmented Social Media: A Look into Selective Exposure to Political News'
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:50.993080Z'
+publishDate: '2020-09-21T08:12:21.136380Z'
 authors:
 - Jisun An
 - Daniele Quercia
@@ -21,7 +21,8 @@ abstract: The hypothesis of selective exposure assumes that people crave like-mi
   users cannot be distinguished from the average user as the two subgroups do not
   show any demographic difference.
 featured: false
-publication: '*Proceedings of the 22nd International Conference on World Wide Web*'
+publication: '*Proceedings of the 22nd International Conference on World Wide Web
+  (WWW)*'
 tags:
 - '"selective exposure"'
 - '"news aggregator"'

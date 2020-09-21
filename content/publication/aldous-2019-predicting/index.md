@@ -2,7 +2,7 @@
 title: Predicting Audience Engagement Across Social Media Platforms in the News Domain
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:34.866269Z'
+publishDate: '2020-09-21T08:12:03.858107Z'
 authors:
 - Kholoud Khalil Aldous
 - Jisun An
@@ -24,7 +24,7 @@ abstract: We analyze cross-platform factors for posts on both single and multipl
   studies, the findings have implications for the news domain, as well as other fields
   that distribute online content via social media.
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/aldous_audience_engagement.pdf
 ---
 

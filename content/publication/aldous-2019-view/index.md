@@ -3,7 +3,7 @@ title: 'View, Like, Comment, Post: Analyzing User Engagement by Topic at 4 Level
   across 5 Social Media Platforms for 53 News Organizations'
 date: '2019-07-01'
 draft: false
-publishDate: '2020-09-21T07:55:36.133019Z'
+publishDate: '2020-09-21T08:12:05.378725Z'
 authors:
 - Kholoud Khalil Aldous
 - Jisun An
@@ -24,7 +24,7 @@ abstract: We evaluate the effects of the topics of social media posts on audienc
   and to prioritize types of user engagement.
 featured: false
 publication: '*Proceedings of the International AAAI Conference on Web and Social
-  Media*'
+  Media (ICWSM)*'
 url_pdf: https://www.aaai.org/ojs/index.php/ICWSM/article/view/3208
 ---
 

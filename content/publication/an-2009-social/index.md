@@ -2,7 +2,7 @@
 title: A social relation aware routing protocol for mobile ad hoc networks
 date: '2009-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:53.276031Z'
+publishDate: '2020-09-21T08:12:23.410193Z'
 authors:
 - Jisun An
 - Yangwoo Ko
@@ -22,6 +22,7 @@ abstract: In this paper, we propose a social relation aware routing protocol for
   shows that the proposed routing protocol improves higher delivery ratio with lower
   network overhead than DSDV.
 featured: false
-publication: '*2009 IEEE International Conference on Pervasive Computing and Communications*'
+publication: '*2009 IEEE International Conference on Pervasive Computing and Communications
+  (PerCom)*'
 ---
 

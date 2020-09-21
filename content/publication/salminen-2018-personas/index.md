@@ -3,7 +3,7 @@ title: 'Are personas done?: Evaluating the usefulness of personas in the age of 
   analytics'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:38.093078Z'
+publishDate: '2020-09-21T08:12:08.011197Z'
 authors:
 - Joni Salminen
 - Bernard J Jansen

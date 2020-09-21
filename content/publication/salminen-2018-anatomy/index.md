@@ -3,7 +3,7 @@ title: 'Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Model
   for Identifying and Classifying Hate in Online News Media'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:39.381553Z'
+publishDate: '2020-09-21T08:12:09.634151Z'
 authors:
 - Joni Salminen
 - Hind Almerekhi

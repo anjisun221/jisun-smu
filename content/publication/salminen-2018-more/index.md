@@ -2,7 +2,7 @@
 title: "'Is More Better?': Impact of Multiple Photos on Perception of Persona Profiles"
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:40.218662Z'
+publishDate: '2020-09-21T08:12:10.582737Z'
 authors:
 - Joni Salminen
 - Lene Nielsen
@@ -26,7 +26,7 @@ abstract: "In this research, we investigate if and how more photos than a single
   \ persona profiles."
 featured: false
 publication: '*Proceedings of the 2018 CHI Conference on Human Factors in Computing
-  Systems*'
+  Systems (CHI)*'
 tags:
 - '"online data representations"'
 - '"user perceptions"'

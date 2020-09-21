@@ -2,7 +2,7 @@
 title: Recommending Investors for Crowdfunding Projects
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:50.279147Z'
+publishDate: '2020-09-21T08:12:20.645524Z'
 authors:
 - Jisun An
 - Daniele Quercia
@@ -27,7 +27,8 @@ abstract: "To bring their innovative ideas to market, those embarking in new ven
   \ Our findings also produced key insights about the whys and wherefores of investors\
   \ deciding to support innovative efforts."
 featured: false
-publication: '*Proceedings of the 23rd International Conference on World Wide Web*'
+publication: '*Proceedings of the 23rd International Conference on World Wide Web
+  (WWW)*'
 tags:
 - '"kickstarter"'
 - '"twitter"'

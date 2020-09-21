@@ -3,7 +3,7 @@ title: 'What Gets Media Attention and How Media Attention Evolves Over Time: Lar
   Empirical Evidence from 196 Countries'
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:45.326276Z'
+publishDate: '2020-09-21T08:12:15.769401Z'
 authors:
 - Jisun An
 - Haewon Kwak

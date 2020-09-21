@@ -3,7 +3,7 @@ title: 'The Challenges of Creating Engaging Content: Results from a Focus Group 
   of a Popular News Media Organization'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:36.657047Z'
+publishDate: '2020-09-21T08:12:06.021293Z'
 authors:
 - Kholoud Khalil Aldous
 - Jisun An
@@ -27,7 +27,7 @@ abstract: The process of content creation for distribution via social media plat
   on which to publish the content.
 featured: false
 publication: '*Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing
-  Systems*'
+  Systems (CHI)*'
 tags:
 - '"recommendation system"'
 - '"user engagement"'

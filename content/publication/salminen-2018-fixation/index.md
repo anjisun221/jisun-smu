@@ -3,7 +3,7 @@ title: "Fixation and Confusion: Investigating Eye-Tracking Participants' Exposur
   \ to Information in Personas"
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:41.821266Z'
+publishDate: '2020-09-21T08:12:12.050940Z'
 authors:
 - Joni Salminen
 - Bernard J. Jansen
@@ -31,7 +31,7 @@ abstract: To more effectively convey relevant information to end users of person
   and related information products, such as user profiling and customer segmentation.
 featured: false
 publication: '*Proceedings of the 2018 Conference on Human Information Interaction
-  & Retrieval*'
+  & Retrieval (CHIIR)*'
 tags:
 - '"eye tracking"'
 - '"personas"'

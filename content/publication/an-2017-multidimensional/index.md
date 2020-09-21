@@ -3,7 +3,7 @@ title: Multidimensional Analysis of the News Consumption of Different Demographi
   Groups on a Nationwide Scale
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:43.262204Z'
+publishDate: '2020-09-21T08:12:13.741704Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -19,7 +19,7 @@ abstract: 'Examining 103,133 news articles that are the most popular for differe
   We found that differences in news reading behavior across different demographic
   groups are the most noticeable in subtopic level but neither section nor topic levels.'
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-67217-5_9
 ---
 

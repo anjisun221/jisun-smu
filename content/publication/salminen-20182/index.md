@@ -3,7 +3,7 @@ title: 'From 2,772 segments to five personas: Summarizing a diverse online audie
   by generating culturally adapted personas'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:39.970788Z'
+publishDate: '2020-09-21T08:12:10.249747Z'
 authors:
 - Joni Salminen
 - Sercan Şengün

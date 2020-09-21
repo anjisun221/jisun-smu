@@ -3,7 +3,7 @@ title: Whom should we sense in 'social sensing'-analyzing which users work best 
   social media now-casting
 date: '2015-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:48.626454Z'
+publishDate: '2020-09-21T08:12:19.026385Z'
 authors:
 - Jisun An
 - Ingmar Weber

@@ -2,7 +2,7 @@
 title: Convergence of Media Attention Across 129 Countries
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:43.486192Z'
+publishDate: '2020-09-21T08:12:13.976365Z'
 authors:
 - Jisun An
 - Hassan Aldarbesti
@@ -22,7 +22,7 @@ abstract: The objective of this study is to assess the longitudinal trends of me
   of countries often have common media attention, their similarity level depends on
   time and topic.
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-67256-4_14
 ---
 

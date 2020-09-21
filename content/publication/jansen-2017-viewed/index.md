@@ -3,7 +3,7 @@ title: 'Viewed by too many or viewed too little: Using information dissemination
   audience segmentation'
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:45.595302Z'
+publishDate: '2020-09-21T08:12:16.046867Z'
 authors:
 - Bernard J. Jansen
 - Soon-Gyo Jung
@@ -31,7 +31,8 @@ abstract: ABSTRACT The identification of meaningful audience segments, such as g
   content. We demonstrate the utility of this line of analysis by using the approach
   to identify critical cut-off values for dynamic persona generation.
 featured: false
-publication: '*Proceedings of the Association for Information Science and Technology*'
+publication: '*Proceedings of the Association for Information Science and Technology
+  (ASIS&T)*'
 tags:
 - '"Social Media Analytics"'
 - '"User Experience Research"'

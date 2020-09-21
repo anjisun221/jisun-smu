@@ -3,7 +3,7 @@ title: 'What We Read, What We Search: Media Attention and Public Attention Among
   Countries'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:41.193208Z'
+publishDate: '2020-09-21T08:12:11.360954Z'
 authors:
 - Haewoon Kwak
 - Jisun An
@@ -30,7 +30,7 @@ abstract: We investigate the alignment of international attention of news media 
   odds, indicating that the public within these countries may be ignoring their country-specific
   news outlets and seeking other online sources to address their media needs and desires.
 featured: false
-publication: '*Proceedings of the 2018 World Wide Web Conference*'
+publication: '*Proceedings of the 2018 World Wide Web Conference (TheWeb)*'
 tags:
 - '"news coverage"'
 - '"multiplex network"'

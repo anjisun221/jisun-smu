@@ -2,7 +2,7 @@
 title: Political Discussions in Homogeneous and Cross-Cutting Communication Spaces
 date: '2019-07-01'
 draft: false
-publishDate: '2020-09-21T07:55:36.372341Z'
+publishDate: '2020-09-21T08:12:05.745748Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -27,7 +27,7 @@ abstract: 'Online platforms, such as Facebook, Twitter, and Reddit, provide user
   on political talk online.'
 featured: false
 publication: '*Proceedings of the International AAAI Conference on Web and Social
-  Media*'
+  Media (ICWSM)*'
 url_pdf: https://www.aaai.org/ojs/index.php/ICWSM/article/view/3210
 ---
 

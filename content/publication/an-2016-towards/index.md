@@ -2,7 +2,7 @@
 title: Towards Automatic Persona Generation Using Social Media
 date: '2016-08-01'
 draft: false
-publishDate: '2020-09-21T07:55:46.560930Z'
+publishDate: '2020-09-21T08:12:17.014842Z'
 authors:
 - J. An
 - H. Cho

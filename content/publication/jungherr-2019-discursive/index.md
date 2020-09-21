@@ -2,7 +2,7 @@
 title: 'Discursive Power in Contemporary Media Systems: A Comparative Framework'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:35.652600Z'
+publishDate: '2020-09-21T08:12:04.767009Z'
 authors:
 - Andreas Jungherr
 - Oliver Posegga
@@ -28,7 +28,7 @@ abstract: " Contemporary media systems are in transition. The constellation of o
   \ toolkit available to researchers interested in the empirical analysis of contemporary\
   \ media systems. "
 featured: false
-publication: '*The International Journal of Press/Politics*'
+publication: '*The International Journal of Press/Politics (IJPP)*'
 url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/1940161219841543
 doi: 10.1177/1940161219841543
 ---

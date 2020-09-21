@@ -3,7 +3,7 @@ title: 'Automatic Persona Generation for Online Content Creators: Conceptual Rat
   and a Research Agenda'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:37.303153Z'
+publishDate: '2020-09-21T08:12:07.028350Z'
 authors:
 - Joni Salminen
 - Bernard J. Jansen

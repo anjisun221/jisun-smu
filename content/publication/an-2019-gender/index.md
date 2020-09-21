@@ -3,7 +3,7 @@ title: Gender and Racial Diversity in Commercial Brands' Advertising Images on S
   Media
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:35.120343Z'
+publishDate: '2020-09-21T08:12:04.131858Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -15,7 +15,7 @@ abstract: Gender and racial diversity in the mediated images from the media shap
   brands on Instagram and Facebook. We hope that our analyses give guidelines on how
   to build a fully automated watchdog for gender and racial diversity in online advertisements.
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: https://arxiv.org/abs/1908.01352
 ---
 

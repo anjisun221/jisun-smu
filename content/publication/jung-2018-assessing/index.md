@@ -3,7 +3,7 @@ title: Assessing the Accuracy of Four Popular Face Recognition Tools for Inferri
   Gender, Age, and Race
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:39.142445Z'
+publishDate: '2020-09-21T08:12:09.276567Z'
 authors:
 - Soon-gyo Jung
 - Jisun An

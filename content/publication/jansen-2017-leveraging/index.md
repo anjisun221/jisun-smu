@@ -3,7 +3,7 @@ title: Leveraging Social Analytics Data for Identifying Customer Segments for On
   News Media
 date: '2017-10-01'
 draft: false
-publishDate: '2020-09-21T07:55:42.943650Z'
+publishDate: '2020-09-21T08:12:13.495484Z'
 authors:
 - B. J. Jansen
 - S. Jung

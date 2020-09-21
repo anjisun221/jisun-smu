@@ -3,7 +3,7 @@ title: Empirical Evaluation of Three Common Assumptions in Building Political Me
   Bias Datasets
 date: '2020-05-01'
 draft: false
-publishDate: '2020-09-21T07:55:33.173414Z'
+publishDate: '2020-09-21T08:12:01.764487Z'
 authors:
 - Soumen Ganguly
 - Juhi Kulshrestha

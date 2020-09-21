@@ -3,7 +3,7 @@ title: 'Stylistic Features Usage: Similarities and Differences Using Multiple So
   Networks'
 date: '2019-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:34.602657Z'
+publishDate: '2020-09-21T08:12:03.650644Z'
 authors:
 - Kholoud Khalil Aldous
 - Jisun An
@@ -21,7 +21,7 @@ abstract: User engagement on social networks is essential for news outlets where
   these findings in building guidelines for content editors and creators to create
   more users engaging postings.
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/aldous_stylistic_features_.pdf
 ---
 

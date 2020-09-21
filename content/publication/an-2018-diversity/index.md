@@ -2,7 +2,7 @@
 title: 'Diversity in Online Advertising: A Case Study of 69 Brands on Social Media'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:38.587894Z'
+publishDate: '2020-09-21T08:12:08.642675Z'
 authors:
 - Jisun An
 - Ingmar Weber
@@ -22,7 +22,7 @@ abstract: "Lack of diversity in advertising is a long-standing problem. Despite 
   \ and (3) How does brand diversity relate to user engagement -- Do users of a particular\
   \ demographic engage more if their demographics are represented in a post?"
 featured: false
-publication: '*Social Informatics*'
+publication: '*Social Informatics (SocInfo)*'
 url_pdf: https://ingmarweber.de/wp-content/uploads/2018/09/Diversity-in-Online-Advertising-A-Acase-STudy-of-69-Brands-on-Social-Media.pdf
 ---
 

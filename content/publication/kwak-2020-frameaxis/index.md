@@ -2,7 +2,7 @@
 title: 'FrameAxis: Characterizing Framing Bias and Intensity with Word Embedding'
 date: '2020-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:34.083455Z'
+publishDate: '2020-09-21T08:12:03.230593Z'
 authors:
 - Haewoon Kwak
 - Jisun An

@@ -2,7 +2,7 @@
 title: Automatically Conceptualizing Social Media Analytics Data via Personas
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:38.874498Z'
+publishDate: '2020-09-21T08:12:08.891962Z'
 authors:
 - Soon-gyo Jung
 - Joni Salminen

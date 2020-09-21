@@ -2,7 +2,7 @@
 title: Persona Generation from Aggregated Social Media Data
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:44.735070Z'
+publishDate: '2020-09-21T08:12:15.215407Z'
 authors:
 - Soon-Gyo Jung
 - Jisun An
@@ -27,7 +27,7 @@ abstract: We develop a methodology for persona generation using real time social
   products via online platforms.
 featured: false
 publication: '*Proceedings of the 2017 CHI Conference Extended Abstracts on Human
-  Factors in Computing Systems*'
+  Factors in Computing Systems (CHI)*'
 tags:
 - '"user experience research"'
 - '"persona"'

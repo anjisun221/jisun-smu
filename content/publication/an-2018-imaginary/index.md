@@ -3,7 +3,7 @@ title: 'Imaginary People Representing Real Numbers: Generating Personas from Onl
   Social Media Data'
 date: '2018-11-01'
 draft: false
-publishDate: '2020-09-21T07:55:38.350416Z'
+publishDate: '2020-09-21T08:12:08.351033Z'
 authors:
 - J. An
 - H. Kwak
@@ -31,7 +31,7 @@ abstract: 'We develop a methodology to automate creating imaginary people, refer
   media data from major online platforms. Results have implications for media companies
   and other organizations distributing content via online platforms.'
 featured: false
-publication: '*ACM Trans. Web*'
+publication: '*ACM Transactions on the Web (TWEB)*'
 tags:
 - '"user analytics"'
 - '"Persona"'

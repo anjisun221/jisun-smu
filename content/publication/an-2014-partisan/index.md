@@ -2,7 +2,7 @@
 title: 'Partisan Sharing: Facebook Evidence and Societal Consequences'
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:50.022474Z'
+publishDate: '2020-09-21T08:12:20.386708Z'
 authors:
 - Jisun An
 - Daniele Quercia
@@ -29,7 +29,8 @@ abstract: 'The hypothesis of selective exposure assumes that people seek out inf
   sharing: it is associated with people who are more knowledgeable about politics
   and engage more with it as they are more likely to vote in the general elections.'
 featured: false
-publication: '*Proceedings of the Second ACM Conference on Online Social Networks*'
+publication: '*Proceedings of the Second ACM Conference on Online Social Networks
+  (COSN)*'
 tags:
 - '"social media"'
 - '"facebook"'

@@ -2,7 +2,7 @@
 title: Demographics of News Sharing in the U.S. Twittersphere
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:44.442024Z'
+publishDate: '2020-09-21T08:12:14.973024Z'
 authors:
 - Julio C.S. Reis
 - Haewoon Kwak
@@ -23,7 +23,8 @@ abstract: The widespread adoption and dissemination of online news through socia
   also quantify differences in interests of news sharing across demographics, which
   has implications for personalized news digests.
 featured: false
-publication: '*Proceedings of the 28th ACM Conference on Hypertext and Social Media*'
+publication: '*Proceedings of the 28th ACM Conference on Hypertext and Social Media
+  (Hypertext)*'
 tags:
 - '"demographics"'
 - '"online news"'

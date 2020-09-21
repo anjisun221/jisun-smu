@@ -2,7 +2,7 @@
 title: Why Individuals Seek Diverse Opinions (or Why They Don't)
 date: '2013-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:51.865566Z'
+publishDate: '2020-09-21T08:12:22.010902Z'
 authors:
 - Jisun An
 - Daniele Quercia
@@ -21,7 +21,7 @@ abstract: Fact checking has been hard enough to do in traditional settings, but,
   one looks for diverse opinions largely depends on three factors--one's prior convictions,
   emotional state, and social context.
 featured: false
-publication: '*Proceedings of the 5th Annual ACM Web Science Conference*'
+publication: '*Proceedings of the 5th Annual ACM Web Science Conference (WebSci)*'
 url_pdf: https://dl.acm.org/doi/10.1145/2464464.2464493?cid=99659160512
 doi: 10.1145/2464464.2464493
 ---

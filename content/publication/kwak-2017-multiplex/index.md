@@ -2,7 +2,7 @@
 title: Multiplex Media Attention and Disregard Network among 129 Countries
 date: '2017-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:43.992369Z'
+publishDate: '2020-09-21T08:12:14.507617Z'
 authors:
 - Haewoon Kwak
 - Jisun An
@@ -16,7 +16,7 @@ abstract: We built a multiplex media attention and disregard network (MADN) amon
   Africa (MENA) region, as well as Russia and its neighbors, still exist.
 featured: false
 publication: '*Proceedings of the 2017 IEEE/ACM International Conference on Advances
-  in Social Networks Analysis and Mining 2017*'
+  in Social Networks Analysis and Mining (ASONAM)*'
 url_pdf: https://dl.acm.org/doi/10.1145/3110025.3120984?cid=99659160512
 doi: 10.1145/3110025.3120984
 ---

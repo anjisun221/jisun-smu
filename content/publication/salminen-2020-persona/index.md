@@ -3,7 +3,7 @@ title: 'Persona Perception Scale: Development and Exploratory Validation of an I
   for Evaluating Individuals’ Perceptions of Personas'
 date: '2020-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:33.858016Z'
+publishDate: '2020-09-21T08:12:02.910647Z'
 authors:
 - Joni Salminen
 - Joao M. Santos

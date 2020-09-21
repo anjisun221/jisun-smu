@@ -3,7 +3,7 @@ title: 'SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Se
   Beyond Sentiment'
 date: '2018-07-01'
 draft: false
-publishDate: '2020-09-21T07:55:39.674506Z'
+publishDate: '2020-09-21T08:12:09.941380Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -19,7 +19,7 @@ abstract: Because word semantics can substantially change across communities and
   approaches in building domain-specific sentiment lexicons.
 featured: false
 publication: '*Proceedings of the 56th Annual Meeting of the Association for Computational
-  Linguistics (Volume 1: Long Papers)*'
+  Linguistics (ACL)*'
 url_pdf: https://www.aclweb.org/anthology/P18-1228
 doi: 10.18653/v1/P18-1228
 ---

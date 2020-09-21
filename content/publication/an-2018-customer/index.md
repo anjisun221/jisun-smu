@@ -3,7 +3,7 @@ title: 'Customer segmentation using online platforms: isolating behavioral and d
   segments for persona creation via aggregated user data'
 date: '2018-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:37.864200Z'
+publishDate: '2020-09-21T08:12:07.698471Z'
 authors:
 - Jisun An
 - Haewoon Kwak
@@ -26,7 +26,7 @@ abstract: We propose a novel approach for isolating customer segments using onli
   identify both behavioral and demographical customer segments using actual online
   customer data from which we can generate personas representing real groups of people.
 featured: false
-publication: '*Social Network Analysis and Mining*'
+publication: '*Social Network Analysis and Mining (SNAM)*'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_snam_segmentation.pdf
 ---
 

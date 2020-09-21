@@ -3,7 +3,7 @@ title: 'Sharing political news: the balancing act of intimacy and socialization 
   selective exposure'
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:49.477866Z'
+publishDate: '2020-09-21T08:12:19.909761Z'
 authors:
 - Jisun An
 - Daniele Quercia

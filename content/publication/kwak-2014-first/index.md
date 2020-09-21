@@ -2,7 +2,7 @@
 title: A first look at global news coverage of disasters by using the gdelt dataset
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:50.570894Z'
+publishDate: '2020-09-21T08:12:20.904630Z'
 authors:
 - Haewoon Kwak
 - Jisun An
@@ -17,7 +17,7 @@ abstract: In this work, we reveal the structure of global news coverage of disas
   strong regionalism in news geography, highlighting the necessity of comprehensive
   datasets for the study of global news coverage.
 featured: false
-publication: '*International Conference on Social Informatics*'
+publication: '*International Conference on Social Informatics (SocInfo)*'
 url_pdf: https://www.dropbox.com/s/fpt7gr3msens7dl/kwak2014first.pdf?dl=0
 ---
 

@@ -3,7 +3,7 @@ title: Understanding News Geography and Major Determinants of Global News Covera
   of Disasters
 date: '2014-01-01'
 draft: false
-publishDate: '2020-09-21T07:55:49.759623Z'
+publishDate: '2020-09-21T08:12:20.169584Z'
 authors:
 - Haewoon Kwak
 - Jisun An
