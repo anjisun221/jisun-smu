@@ -3,7 +3,7 @@ title: Jisun An
 role: "Assistant Professor "
 avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
+  - name: name: School of Information Systems, Singapore Management University (SMU-SIS) jisunan@smu.edu.sg
     url: ""
 superuser: true
 authors:
