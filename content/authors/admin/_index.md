@@ -1,7 +1,7 @@
 ---
 title: Jisun An
 role: "Assistant Professor "
-avatar_filename: jisunan.jpeg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
