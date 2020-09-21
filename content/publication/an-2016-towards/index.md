@@ -31,10 +31,12 @@ featured: false
 publication: '*2016 IEEE 4th International Conference on Future Internet of Things
   and Cloud Workshops (FiCloudW)*'
 tags:
-- '"human computer interaction;social networking (online);automatic persona generation;social
-  media data;Facebook;Twitter;YouTube;online news medium;Facebook;Real-time systems;YouTube;Data
-  collection;Twitter;Media;Persona;marketing;online news;design method;scenario;user-centered
-  design"'
+- '"human computer interaction"'
+- '"social networking (online)"'
+- '"automatic persona generation"'
+- '"Persona"'
+- '"digital marketing"'
+- '"user-centered design"'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_personas_2016a.pdf
 doi: 10.1109/W-FiCloud.2016.51
 ---

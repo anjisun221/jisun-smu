@@ -29,12 +29,12 @@ featured: false
 publication: '*2017 5th International Conference on Future Internet of Things and
   Cloud Workshops (FiCloudW)*'
 tags:
-- '"cultural aspects;social networking (online);cultural personas;social data;mixed-method
-  study;content consumption patterns;Middle Eastern social media users;online data;automatic
-  persona generation;content interactions;behavioral patterns;Middle Eastern region;qualitative
-  data enrichment;culturally receptive personas;social media audiences;demographic
-  groups;Middle Eastern users;Cultural differences;Videos;Media;Facebook;YouTube;Matrix
-  decomposition;social media analytics;personas;Middle East;mixed method research"'
+- '"cultural aspects"'
+- '"social data"'
+- '"Middle Eastern social media users"'
+- '"automatic persona generation"'
+- '"social media analytics"'
+- '"cultural personas"'
 url_pdf: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_mena_personas2017.pdf
 doi: 10.1109/FiCloudW.2017.97
 ---

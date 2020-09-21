@@ -34,12 +34,11 @@ featured: false
 publication: '*2017 IEEE/ACS 14th International Conference on Computer Systems and
   Applications (AICCSA)*'
 tags:
-- '"advertising;customer services;social networking (online);social analytics data;online
-  news media;customer interaction data;social media platforms;behavioral customer
-  segments;customer base;online customer interactions;online content provider;online
-  interactions;online digital content;online behaviors;demographic segments;YouTube;Organizations;Media;Matrix
-  decomposition;Data collection;Facebook;Social analytics;social media;web analytics;online
-  news;customer segmentation;digital marketing"'
+- '"advertising'
+- '"social analytics"'
+- '"behavioral customer segments"'
+- '"customer segmentation"'
+- '"digital marketing"'
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8308323/
 doi: 10.1109/AICCSA.2017.64
 ---
