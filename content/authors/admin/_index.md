@@ -28,7 +28,7 @@ social:
     link: https://twitter.com/JisunAn
   - icon: google-scholar
     icon_pack: ai
-    link: "https://scholar.google.co.uk/citations?hl=en&pli=1&user=6hkR3hEAAAAJ"
+    link: "https://scholar.google.com/citations?user=FYtw3zkAAAAJ&hl=en"
 education:
   courses:
     - course: PhD in Computer Science
