@@ -4,3 +4,21 @@
 # Hugo
 /resources/
 public/
+.github/Icon
+.github/Icon
+assets/images/Icon
+content/.DS_Store
+.DS_Store
+content/project/external-discursive-power/.DS_Store
+content/project/internal-predicting-future/.DS_Store
+content/publication/.DS_Store
+layouts/.DS_Store
+layouts/partials/.DS_Store
+mybib/.DS_Store
+content/project/external-discursive-power/.DS_Store
+content/project/internal-predicting-future/.DS_Store
+content/publication/.DS_Store
+layouts/.DS_Store
+layouts/partials/.DS_Store
+mybib/.DS_Store
+.DS_Store
